@@ -33,9 +33,9 @@ var callback = () => api.sendMessage({body:`𝐀𝐃𝐌𝐈𝐍 𝐀𝐍𝐃 �
 
 ✿︎𝔹𝕠𝕥 𝔸𝕕𝕞𝕚𝕟✿︎ ☞︎︎︎ 𝐗𝐀𝐈𝐊𝐎-𝐇𝐀𝐁𝐈𝐁
 
-༆ 𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐈𝐃 𝐋𝐢𝐧𝐤 :\n➪ https://www.facebook.com/AYAN.JANU.LOVE.YOU.MY.HEART 
+༆ 𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐈𝐃 𝐋𝐢𝐧𝐤 :\n➪  https://www.facebook.com/profile.php?id=100092466070741
 
-👋𝔽𝕠𝕣 𝔸𝕟𝕪 𝕂𝕚𝕟𝕕 𝕆𝕗 ℍ𝕖𝕝𝕡 ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕆𝕟 𝔽𝕓 :\n➪ ♕︎Mohammad Ayan♕︎
+👋𝔽𝕠𝕣 𝔸𝕟𝕪 𝕂𝕚𝕟𝕕 𝕆𝕗 ℍ𝕖𝕝𝕡 ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕆𝕟 𝔽𝕓 :\n➪ ♕𝐗𝐀𝐈𝐊𝐎-𝐇𝐀𝐁𝐈𝐁♕
 
 ✧━━━━━━━━━━━━━━━❤🪽
 
