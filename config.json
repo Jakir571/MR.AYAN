@@ -10,10 +10,10 @@
     "EMAIL": "mohammadayan55505@gmail.com",
     "PASSWORD": "ayanfcal22",
     "OTPKEY": "",
-    "BOTNAME": "botnickname",
-    "PREFIX": "Bot-prefix",
+    "BOTNAME": "HABIB–ROBOT",
+    "PREFIX": ".",
     "ADMINBOT": [
-        "USERID1",
+        "100092466070741",
         "USERID2"
     ],
     "DATABASE": {
