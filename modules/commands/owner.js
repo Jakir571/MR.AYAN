@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "owner",
 	version: "1.0.1", 
 	hasPermssion: 0,
-	credits: "AYAN CHOWDHURY",
+	credits: "𝐗𝐀𝐈𝐊𝐎-𝐇𝐀𝐁𝐈𝐁",
 	description: "info",
 	commandCategory: "Owner",
 	cooldowns: 1,
@@ -31,7 +31,7 @@ var callback = () => api.sendMessage({body:`𝐀𝐃𝐌𝐈𝐍 𝐀𝐍𝐃 �
 
 ✰𝔹𝕠𝕥 ℕ𝕒𝕞𝕖︎︎︎✰: ${global.config.BOTNAME}
 
-✿︎𝔹𝕠𝕥 𝔸𝕕𝕞𝕚𝕟✿︎ ☞︎︎︎ 𝐀𝐘𝐀𝐍 𝐂𝐇𝐎𝐔𝐃𝐇𝐔𝐑𝐘
+✿︎𝔹𝕠𝕥 𝔸𝕕𝕞𝕚𝕟✿︎ ☞︎︎︎ 𝐗𝐀𝐈𝐊𝐎-𝐇𝐀𝐁𝐈𝐁
 
 ༆ 𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐈𝐃 𝐋𝐢𝐧𝐤 :\n➪ https://www.facebook.com/AYAN.JANU.LOVE.YOU.MY.HEART 
 
@@ -41,7 +41,7 @@ var callback = () => api.sendMessage({body:`𝐀𝐃𝐌𝐈𝐍 𝐀𝐍𝐃 �
 
 ❀𝐁𝐨𝐭 𝐏𝐫𝐞𝐟𝐢𝐱❀: ➪ [ ${global.config.PREFIX} ] 
 
-♕︎𝗕𝗼𝘁 𝗢𝘄𝗻𝗲𝗿♕︎:  𝐀𝐘𝐀𝐍 𝐂𝐇𝐎𝐔𝐃𝐇𝐔𝐑𝐘
+♕︎𝗕𝗼𝘁 𝗢𝘄𝗻𝗲𝗿♕︎:  𝐗𝐀𝐈𝐊𝐎-𝐇𝐀𝐁𝐈𝐁
 
 👑𝕌ℙ𝕋𝕀𝕄𝔼👑 𝟚𝟜/𝟟
 
