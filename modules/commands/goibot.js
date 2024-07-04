@@ -3,7 +3,7 @@ module.exports.config = {
   name: "goibot",
   version: "1.0.1",
   hasPermssion: 0,
-  credits: "𝐀𝐘𝐀𝐍",
+  credits: "— 𝗛𝗔𝗕𝗜𝗕 :)",
   description: "goibot",
   commandCategory: "Noprefix",
   usages: "noprefix",
@@ -21,7 +21,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
   var rand = tl[Math.floor(Math.random() * tl.length)]
 
   if ((event.body.toLowerCase() == "owner") || (event.body.toLowerCase() == "owner k")) {
-     return api.sendMessage("️ AYAN Chowdhury", threadID, messageID);
+     return api.sendMessage("️ — 𝗛𝗔𝗕𝗜𝗕 :)", threadID, messageID);
    };
    
   if ((event.body.toLowerCase() == "bat suno") || (event.body.toLowerCase() == "bat sun")) {
@@ -76,7 +76,7 @@ if ((event.body.toLowerCase() == " bot love you") || (event.body.toLowerCase() =
    };
    
    if ((event.body.toLowerCase() == "bot kar") || (event.body.toLowerCase() == "bot kar ata")) {
-     return api.sendMessage("আয়ান বস আমাকে বানাইছে-!!👀", threadID, messageID);
+     return api.sendMessage("হবিব বস আমাকে বানাইছে-!!👀", threadID, messageID);
       };
   if (event.body.indexOf("bot") == 0 || (event.body.indexOf("Bot") == 0)) {
     var msg = {
